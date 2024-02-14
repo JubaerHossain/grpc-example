@@ -6,7 +6,7 @@ import (
 
     "google.golang.org/grpc"
 
-    pb "github.com/JubaerHossain/grpc-example/client"
+    pb "github.com/JubaerHossain/grpc-example/api"
 )
 
 func main() {
